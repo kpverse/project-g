@@ -37,7 +37,7 @@
 		"mode-watcher": "^0.4.1",
 		"run-script-os": "^1.1.6",
 		"svelte-sonner": "^0.3.27",
-		"tailwind-merge": "^2.5.2",
+		"tailwind-merge": "^2.5.3",
 		"tailwind-variants": "^0.2.1",
 		"tauri-plugin-fs-watch-api": "github:tauri-apps/tauri-plugin-fs-watch#v1"
 	}
