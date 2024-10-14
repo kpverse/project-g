@@ -51,7 +51,7 @@
 		"run-script-os": "^1.1.6",
 		"svelte-radix": "^1.1.1",
 		"svelte-sonner": "^0.3.27",
-		"tailwind-merge": "^2.5.2",
+		"tailwind-merge": "^2.5.4",
 		"tailwind-variants": "^0.2.1"
 	}
 }
