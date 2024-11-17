@@ -56,7 +56,7 @@
 		"svelte-relative-time": "^0.0.6",
 		"svelte-sonner": "^0.3.27",
 		"tailwind-merge": "^2.5.4",
-		"tailwind-variants": "^0.2.1"
+		"tailwind-variants": "^0.3.0"
 	},
 	"lint-staged": {
 		"**/*.{svelte,css,html,json,ts}": "prettier --write",
