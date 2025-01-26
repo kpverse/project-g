@@ -51,7 +51,7 @@
 		"@tauri-apps/plugin-fs": "^2.2.0",
 		"@tauri-apps/plugin-os": "^2.2.0",
 		"clsx": "^2.1.1",
-		"mode-watcher": "^0.5.0",
+		"mode-watcher": "^0.5.1",
 		"svelte-radix": "^1.1.1",
 		"svelte-relative-time": "^0.0.6",
 		"svelte-sonner": "^0.3.27",
