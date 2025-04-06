@@ -24,7 +24,7 @@
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
 		"@tauri-apps/cli": "^2.2.4",
 		"@types/eslint": "^9.6.0",
-		"autoprefixer": "^10.4.20",
+		"autoprefixer": "^10.4.21",
 		"bits-ui": "^0.22.0",
 		"eslint": "^9.23.0",
 		"eslint-config-prettier": "^10.0.1",
