@@ -25,7 +25,7 @@ tauri = { version = "2.2.5", features = [] }
 tauri-plugin-log = "2.2.2"
 git2 = { version = "0.20.1", default-features = false }
 uuid = { version = "1.16.0", features = ["v4"] }
-rusqlite = { version = "0.34.0", features = ["bundled"] }
+rusqlite = { version = "0.35.0", features = ["bundled"] }
 tauri-plugin-dialog = "2.2.1"
 tauri-plugin-fs = { version = "2.1.0", features = ["watch"] }
 tauri-plugin-os = "2.2.1"
