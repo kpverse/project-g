@@ -28,7 +28,7 @@ uuid = { version = "1.16.0", features = ["v4"] }
 rusqlite = { version = "0.36.0", features = ["bundled"] }
 tauri-plugin-dialog = "2.2.2"
 tauri-plugin-fs = { version = "2.3.0", features = ["watch"] }
-tauri-plugin-os = "2.2.1"
+tauri-plugin-os = "2.2.2"
 chrono = "0.4.41"
 
 [features]
